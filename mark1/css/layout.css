@@ -1,0 +1,30 @@
+@media (max-width:800px){
+    aside{
+        width:100%;
+        height: 150px;
+    }
+   
+
+    
+}
+@media (max-width:400px){
+    aside{
+        width:100%;
+        height: 75px;
+    }
+   
+    
+}
+
+
+@media (max-width:1400px){
+    aside{
+        width:100%;
+        height: 300px;
+    }
+    
+}
+
+
+
+
